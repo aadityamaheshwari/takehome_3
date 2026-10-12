@@ -2,8 +2,8 @@
 
 ## Prerequisites
 
-- **Node.js 20+** and **npm** (`node -v` — Node 18 will not run the Angular starter)
-- **Git** if you submit a repository (preferred)
+- **Node.js 20+** and **npm**
+- **Git**
 - **Ports 3001** (API) and **5173** (UI) free
 
 ## Getting started
